@@ -4,7 +4,7 @@
 ##### Insertion Sort
 
   > for j <- 2 to n
-  > ```c++
+  > ```python
   > do key <- A[j]
   > 	i <- j-1
   > while i > 0 and A[i] > key:
@@ -26,7 +26,7 @@
 ##### Merge Sort
 
 > 我自己写的伪代码：
-> ```c++
+> ```python
 > MergeSort(A, 1, n)
 > 	if n is 1:
 > 		done.
@@ -36,7 +36,7 @@
 > ```
 >
 >
-> ```c++
+> ```python
 > Merge(l1, l2, l)
 >     pl1 <- 1, pl2 <- 1, pl <- 1
 >     while pl1 < len(l1) and pl2 < len(l2)
@@ -55,7 +55,7 @@
 > ```
 >
 > 下面是老师写的伪代码，简洁清晰，值得我去学习，
-> ```c++
+> ```python
 > MergeSort(A[1, ..., n])
 > 	if n = 1, done
 > 	Recusively sort A[1, ..., n/2] and A[n/2+1, ..., n]
