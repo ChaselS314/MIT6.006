@@ -1,3 +1,3 @@
-####Learning notes of MIT 6.006.
+####Learning notes of MIT 6.046.
 #####Chen Su
 #####CS of HUST
