@@ -9,7 +9,7 @@
 ### Master Method 主方法
 
 > 对于满足
-> $$
+> $$ 
 > T(n) = aT(n/b) + f(n), where,a \geqslant  1, b > 1, f(n) > 0, when, n > n_{0}
 > $$
 >
