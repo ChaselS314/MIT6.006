@@ -1,4 +1,4 @@
-##Lecture1
+## Lecture1
 #### Problem Sorting 
 
 ##### Insertion Sort
@@ -61,4 +61,4 @@
 > 	Recusively sort A[1, ..., n/2] and A[n/2+1, ..., n]
 > 	Merge 2 sorted lists
 > ```
-######T(n) = Theta n * log(n)
+###### T(n) = Theta n * log(n)
